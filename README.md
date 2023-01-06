@@ -51,17 +51,17 @@ However, with a variation of 170 PSI, which is more than the required limit of 1
 
 Summarizing the findings for each t-test result:
 
-![MechaCar Statistical Analysis - T-Test Lot 1](Images/lot1.jpg)
+![MechaCar Statistical Analysis - T-Test for Lot 1](Images/lot1.jpg)
 Lot 1 is statistically significant because it has a p-value less than 0.05. The true mean value of Lot 1 is 1500.00, which does fall within the 95% confidence interval of 1499.719-1500.281
 
 <br>
 
-![MechaCar Statistical Analysis - T-Test Lot 2](Images/lot2.jpg)
+![MechaCar Statistical Analysis - T-Test for Lot 2](Images/lot2.jpg)
 Lot 2 is statistically significant because it has a p-value less than 0.05. The true mean value of Lot 2 is 1500.20, which does fall within the 95% confidence interval of 1499.719-1500.281
 
 <br>
 
-![MechaCar Statistical Analysis - T-Test Lot 3](Images/lot3.jpg)
+![MechaCar Statistical Analysis - T-Test for Lot 3](Images/lot3.jpg)
 
 Lot 3 is statistically insignificant than the mean population because of its higher p-value of 0.16 which is significantly greater than the p-value of 0.05. The true mean value for Lot 3 does not fall within the 95% confidence interval of 1499.719-1500.281
 
